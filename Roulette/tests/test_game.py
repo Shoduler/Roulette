@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
+import unittest
 from roulette.game import Game
 
-if __name__ == "__main__":
+class GameTestCase(unittest.TestCase):
     pass
